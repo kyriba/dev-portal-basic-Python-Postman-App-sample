@@ -1,7 +1,7 @@
 # basic-Python-Postman-App
 ## Requirements
 Building the API client library requires:
-1. Python [Installation][1]
+1.  Python 3.0 or higher [Installation][1]
    
    [1]: https://www.python.org/downloads/
 
@@ -31,6 +31,6 @@ Open the .../app.py file and input your piece of code:
 
 Run the project in Terminal in the root folder of cloned app:
 ```shell
-app.py
+python app.py
 ```
 If everything was done accordingly with provided steps, you will get the result printed in the command prompt.
