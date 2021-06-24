@@ -1,4 +1,3 @@
-import http.client
 
 # insert your code under this line
 
