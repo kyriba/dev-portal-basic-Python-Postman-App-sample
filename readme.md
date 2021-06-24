@@ -1,6 +1,6 @@
 # basic-Python-Postman-App
 ## Requirements
-Building the API client library requires:
+Building the client library requires:
 1.  Python 3.0 or higher [Installation][1]
    
    [1]: https://www.python.org/downloads/
