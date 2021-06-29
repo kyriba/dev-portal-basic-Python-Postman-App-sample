@@ -19,7 +19,7 @@ git clone https://github.com/kyriba/dev-portal-basic-Python-Java-Postman-App-sam
 ```
 Open the project folder via command prompt, for example:
 ```shell
-cd basic-Python-Postman-App
+cd dev-portal-basic-Python-Java-Postman-App-sample
 ```
 Select the desired Collection in Postman, authenticate through "Get token." request and run the request that you want to provide in the Application.
 If the request works, copy code from Postman:

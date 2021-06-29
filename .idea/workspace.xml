@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e825a99-7dbe-4b54-b4c0-143f79d2aafc" name="Default Changelist" comment="fixed snapshot in readme.md" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uM0NZEYpfDEB8P1j6s4KibJ1gt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e825a99-7dbe-4b54-b4c0-143f79d2aafc" name="Default Changelist" comment="" />
+      <created>1624460110968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624460110968</updated>
+      <workItem from="1624460112219" duration="5500000" />
+      <workItem from="1624517986481" duration="10754000" />
+      <workItem from="1624604473288" duration="653000" />
+      <workItem from="1624965973870" duration="3000" />
+    </task>
+    <task id="LOCAL-00001" summary="removed unnecessary import">
+      <created>1624520807245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624520807245</updated>
+    </task>
+    <task id="LOCAL-00002" summary="removed unnecessary space in snapshot">
+      <created>1624533154582</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624533154582</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changed readme">
+      <created>1624543199361</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624543199361</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added notification to readme">
+      <created>1624546761820</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624546761820</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixed snapshot in readme">
+      <created>1624550293913</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624550293913</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fixed snapshot in readme.md">
+      <created>1624550496945</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1624550496945</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="removed unnecessary import" />
+    <MESSAGE value="removed unnecessary space in snapshot" />
+    <MESSAGE value="changed readme" />
+    <MESSAGE value="added notification to readme" />
+    <MESSAGE value="fixed snapshot in readme" />
+    <MESSAGE value="fixed snapshot in readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed snapshot in readme.md" />
+  </component>
+</project>
