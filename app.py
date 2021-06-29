@@ -1,12 +1,16 @@
+import json
+
 
 # insert the copied code below this line
 
 
-chars = list(data.decode("utf-8"))
-for i in range(len(chars)):
- if chars[i] == "{":
-    chars[i] = chars[i].replace("{", "\n{")
- if chars[i] == ",":
-    chars[i] = chars[i].replace(",", ",\n")
 
-print("".join(chars))
+
+def pp_json(json_thing, sort=False, indents=2):
+    if type(json_thing) is str:
+        print(json.dumps(json.loads(json_thing), sort_keys=sort, indent=indents))
+    else:
+        print(json.dumps(json_thing, sort_keys=sort, indent=indents))
+    return None
+
+pp_json(data.decode("utf-8"))
