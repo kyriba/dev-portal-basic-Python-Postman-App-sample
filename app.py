@@ -1,5 +1,5 @@
 
-# insert your code under this line
+# insert the copied code below this line
 
 
 chars = list(data.decode("utf-8"))

@@ -1,4 +1,4 @@
-# basic-Python-Postman-App
+# dev-portal-basic-Python-Java-Postman-App-sample
 ## Requirements
 Building the client library requires:
 1.  Python 3.0 or higher [Installation][1]
@@ -13,9 +13,9 @@ Building the client library requires:
 
 
 ## Installation
-To copy the API client to your computer copy link of the repository, open Command Prompt, go to the location where project will be copied and execute git clone command:
+To copy the client to your computer copy link of the repository, open Command Prompt, go to the location where project will be copied and execute git clone command:
 ```shell
-git clone https://github.com/OlhaLevko/basic-Python-Postman-App.git
+git clone https://github.com/kyriba/dev-portal-basic-Python-Java-Postman-App-sample.git
 ```
 Open the project folder via command prompt, for example:
 ```shell
